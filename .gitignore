@@ -207,3 +207,6 @@ marimo/_lsp/
 __marimo__/
 
 outputs
+
+# Git 相关文档（本地使用，不需要提交）
+GIT_提交指南.md
